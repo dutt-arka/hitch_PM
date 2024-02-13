@@ -6,9 +6,10 @@ Philosophy : The basic premise is that I'm bored. Like most things in life,I lik
 
 hence,I am the Hitchhiker. Just like Jack Kerouac who wrote his novels while driving across the US -- I intend to note down my journey in a similar way.
 
->> "Boom,Like That"
+If anyone asks,how I came up with this?
 
->> -- Mark Knopfler
+> ("Boom,Like That")[https://www.youtube.com/watch?v=0sYK2RwH5E8]
+ -- Mark Knopfler
 
 --------
 
