@@ -8,8 +8,9 @@ hence,I am the Hitchhiker. Just like Jack Kerouac who wrote his novels while dri
 
 If anyone asks,how I came up with this?
 
-> ("Boom,Like That")[https://www.youtube.com/watch?v=0sYK2RwH5E8]
- -- Mark Knopfler
+> ["Boom,Like That"] (https://www.youtube.com/watch?v=0sYK2RwH5E8)
+
+> -- Mark Knopfler
 
 --------
 
@@ -42,6 +43,8 @@ Key takeaways
 -   Recognizing the need to focus on delivering value and outcomes rather than just building features.
 -   Strategies for breaking free from the cycle of building without clear goals or user validation.
 -   Understanding the role of effective product management in driving innovation and business growth.
+
+
 -----
 
 # Interviewing for a product management role
@@ -95,6 +98,7 @@ Key takeaways
 -   Understanding the process of visualizing user journeys and creating effective user story maps.
 -   Break down your product into user stories.
 -   Identify gaps and opportunities in customer journey
+
 ----
 
 # Product management strategy
@@ -123,7 +127,10 @@ Key takeaways
 -   Strategies for addressing the different needs and behaviors of various customer segments.
 -   Successfully cross the chasm between early adopters and the mainstream market.
 
-##### Product marketing
+------------------
+
+
+# Product marketing
 
 **Hooked: How to Build Habit-Forming Products by Nir Eyal**[Get it here](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 
@@ -148,6 +155,7 @@ Key takeaways
 -   Factors that contribute to the virality and sharing of ideas, products, and messages.
 -   The STEPPS framework (Social Currency, Triggers, Emotion, Public, Practical Value, Stories) for creating contagious content.
 -   Strategies for designing marketing campaigns that naturally spread through word of mouth.
+
 ------
 
 # Cross-functional books
@@ -191,3 +199,7 @@ Key takeaways
 -   Insights into IT operations, DevOps practices, and the challenges of delivering software efficiently.
 -   Apply systems thinking to see bottlenecks and dependencies
 -   Manage constraint and leverage flow to optimize output
+
+-----------
+
+-   I will keep adding more and more links,but these are the books I intend on reading.
