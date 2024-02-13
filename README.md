@@ -1,7 +1,14 @@
 # hitch_PM
 A Hitchikers Guide to Product Management
 -------
-Philosophy :
+
+Philosophy : The basic premise is that I'm bored. Like most things in life,I like learning. I feel kinda burnt-out in my current role as an IC and I feel pivoting to PM would be a good idea. I had prior experience as a PM-intern for 6 months at a startup but I feel, after working 2.5 years in a DevOps/Cloud role -- I need to revisit,revise and reevaluate my product management skills.
+
+hence,I am the Hitchhiker. Just like Jack Kerouac who wrote his novels while driving across the US -- I intend to note down my journey in a similar way.
+
+>> "Boom,Like That"
+
+>> -- Mark Knopfler
 
 --------
 
